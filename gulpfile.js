@@ -3,14 +3,13 @@ var gulp = require('gulp');
 var browserSync = require('browser-sync').create();
 
 // Static Server + watching scss/html files
-gulp.task('serve', ['sass'], function() {
+gulp.task('serve', function() {
 
     browserSync.init({
         server: "."
     });
 
-    gulp.watch("styles/*.css", ['sass']);
-    gulp.watch("*.html").on('change', browserSync.reload);
+    gulp.watch(["*.html","styles/*.css"]).on('change', browserSync.reload);
 });
 
 // Define the default task as a sequence of the above tasks
