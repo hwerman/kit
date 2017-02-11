@@ -18,7 +18,7 @@
   "homepage": "https://github.com/AishaBlake/kit#readme",
   "devDependencies": {
     "browser-sync": "^2.11.1",
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.0"
   },
   "dependencies": {
     "ejs": "^2.5.2",

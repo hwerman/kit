@@ -15,4 +15,4 @@ const homeRoute = require('./routes/home')
 const userRoute = require('./routes/users')
 
 app.use('/', homeRoute);
-app.use('/', userRoute);
+app.use('/users', userRoute);
