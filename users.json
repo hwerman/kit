@@ -1,37 +1,129 @@
 [
 {
-  "name" : "jack",
+  "firstName" : "Jack",
   "username" : "0",
   "friends" : [
-    "john", "devin", "leo"],
+    {
+      "name" : "John",
+      "dateLastSpoke" : "Feb 3",
+      "frequency" : 30,
+      "notes" : []
+    },
+    {
+      "name" : "Devin",
+      "dateLastSpoke" : "Feb 3",
+      "frequency" : 60,
+      "notes" : []
+    },
+    {
+      "name" : "Leo",
+      "dateLastSpoke" : "Feb 3",
+      "frequency" : 90,
+      "notes" : []
+    }
+  ],
   "email" : "jack123@gmail.com"
 },
 {
-  "name" : "lisa",
-  "username" : "0",
+  "firstName" : "Lisa",
+  "username" : "1",
   "friends" : [
-    "john", "devin", "leo"],
-  "email" : "jack123@gmail.com"
+    {
+      "name" : "John",
+      "dateLastSpoke" : "Feb 3",
+      "frequency": 30,
+      "notes" : []
+    },
+    {
+      "name" : "Devin",
+      "dateLastSpoke" : "Feb 3",
+      "frequency": 60,
+      "notes" : []
+    },
+    {
+      "name" : "Leo",
+      "dateLastSpoke" : "Feb 3",
+      "frequency": 90,
+      "notes" : []
+    }
+  ],
+  "email" : "lisalovesgdi@gmail.com"
 },
 {
-  "name" : "periwinkle",
-  "username" : "0",
+  "firstName" : "Peri",
+  "username" : "2",
   "friends" : [
-    "john", "devin", "leo"],
-  "email" : "jack123@gmail.com"
+    {
+      "name" : "John",
+      "dateLastSpoke" : "Feb 3",
+      "frequency": 30,
+      "notes" : []
+    },
+    {
+      "name" : "Devin",
+      "dateLastSpoke" : "Feb 3",
+      "frequency": 60,
+      "notes" : []
+    },
+    {
+      "name" : "Leo",
+      "dateLastSpoke" : "Feb 3",
+      "frequency": 90,
+      "notes" : []
+    }
+  ],
+  "email" : "periperi@gmail.com"
 },
 {
-  "name" : "delila",
-  "username" : "0",
+  "firstName" : "Delila",
+  "username" : "3",
   "friends" : [
-    "john", "devin", "leo"],
-  "email" : "jack123@gmail.com"
+    {
+      "name" : "John",
+      "dateLastSpoke" : "Feb 3",
+      "frequency": 30,
+      "notes" : []
+    },
+    {
+      "name" : "Devin",
+      "dateLastSpoke" : "Feb 3",
+      "frequency": 60,
+      "notes" : []
+    },
+    {
+      "name" : "Leo",
+      "dateLastSpoke" : "Feb 3",
+      "frequency": 90,
+      "notes" : []
+    }
+  ],
+  "email" : "dl@gmail.com"
 },
 {
-  "name" : "frenchie",
-  "username" : "0",
+  "firstName" : "Frenchie",
+  "username" : "4",
   "friends" : [
-    "john", "devin", "leo"],
-  "email" : "jack123@gmail.com"
+    {
+      "name" : "John",
+      "dateLastSpoke" : "Feb 3",
+      "frequency": 30,
+      "notes" : []
+    },
+    {
+      "name" : "Devin",
+      "dateLastSpoke" : "Feb 3",
+      "frequency": 60,
+      "notes" : []
+    },
+    {
+      "name" : "Leo",
+      "dateLastSpoke" : "Feb 3",
+      "frequency": 90,
+      "notes" : []
+    }
+  ],
+  "email" : "francophone@gmail.com"
 }
 ]
+
+

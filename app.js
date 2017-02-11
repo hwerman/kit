@@ -13,6 +13,8 @@ app.listen(port, () => console.log('Server is listening on port ', port));
 
 const homeRoute = require('./routes/home')
 const userRoute = require('./routes/users')
+const friendsRoute = require('./routes/friends');
 
 app.use('/', homeRoute);
 app.use('/users', userRoute);
+app.use('/friends', friendsRoute);
