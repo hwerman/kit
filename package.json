@@ -1,0 +1,23 @@
+{
+  "name": "kit",
+  "version": "1.0.0",
+  "description": "An app to help you keep in touch with your friends!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AishaBlake/kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AishaBlake/kit/issues"
+  },
+  "homepage": "https://github.com/AishaBlake/kit#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+  }
+}
