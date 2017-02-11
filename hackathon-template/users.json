@@ -1,0 +1,37 @@
+[
+{
+  "name" : "jack",
+  "username" : "0",
+  "friends" : [
+    "john", "devin", "leo"],
+  "email" : "jack123@gmail.com"
+},
+{
+  "name" : "lisa",
+  "username" : "0",
+  "friends" : [
+    "john", "devin", "leo"],
+  "email" : "jack123@gmail.com"
+},
+{
+  "name" : "periwinkle",
+  "username" : "0",
+  "friends" : [
+    "john", "devin", "leo"],
+  "email" : "jack123@gmail.com"
+},
+{
+  "name" : "delila",
+  "username" : "0",
+  "friends" : [
+    "john", "devin", "leo"],
+  "email" : "jack123@gmail.com"
+},
+{
+  "name" : "frenchie",
+  "username" : "0",
+  "friends" : [
+    "john", "devin", "leo"],
+  "email" : "jack123@gmail.com"
+}
+]

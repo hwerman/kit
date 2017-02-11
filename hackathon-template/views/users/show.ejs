@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>GDI Hackathon</title>
+  <link rel="stylesheet" href="/style.css">
+  <link href="https://fonts.googleapis.com/css?family=BioRhyme" rel="stylesheet">
+</head>
+<body>
+ <div>
+      <% results.forEach(x => { %>
+      <ul>
+        <li>Username: <%= x.username %></li>
+        <li>Name: <%= x.name %></li>
+        <li>Email: <%= x.email %></li>
+      </ul>
+      <br>
+      <% }) %>
+    </div>
+</body>
+</html>
